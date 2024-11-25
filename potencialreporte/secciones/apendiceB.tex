@@ -1,0 +1,52 @@
+
+\vspace{\baselineskip}
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{img/circuitocurie.png}
+        \label{fig:subfigura1}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{img/Captura desde 2024-09-07 14-06-33.png}
+        \label{fig:subfigura2}
+    \end{subfigure}
+    \caption{\ref{fig:subfigura1} Diagrama del circuito de registro de temperatura y voltajes VRMS del experimento, \ref{fig:subfigura2} Diagrama de conexiones al microcontrolador }
+    \label{fig:schematic}
+\end{figure}
+
+Se muestra el esquema general del circuito registrador de temperatura y Voltaje RMS para los devanados del transformador \ut{fig. \ref{fig:schematic}}, el cual consiste de un modulo de medición de temperatura por efecto Seebeck, con compensación de unión fría a temperatura ambiente \cite{MAX6675}, asi como de un amplificador operacional doble MCP6022  \cite{MCP6022} en configuración de amplificador diferencial los cuales pueden aumentar o reducir el valor de la diferencia potencial entre la entrada inversora y la entrada no inversora, asi como un segundo amplificador operacional MCP6002  \cite{MCP6002}, el cual estaba en configuración de seguidor de voltaje para sumarles un offset a los amplificadores diferenciales y todos los voltajes fueran positivos. Una vez obtenido un voltaje sinusoidal reducido un ADC digitalizaba tal señal con una frecuencia de muestreo de 1 kHz, retiraba el offset y calculaba el voltaje RMS posteriormente multiplicaba por el inverso de la ganancia y enviaba los valores de V RMS real, el medido del amplificador diferencial y los offsets mediante comunicación serial. 
+
+Para esta configuración la ganancia esta dada por:
+
+\begin{equation}
+\label{eq:gain}
+    V_{out}\ =\ \frac{R2}{R1}(V_{+} - V_{-})
+\end{equation}
+
+{\noindent \fontsize{7}{6}\selectfont donde $V_{+},\ V_{-}$. son los voltajes de la entrada no inversora e inversora respectivamente}.
+
+\vspace{\baselineskip}
+
+Se proporciona el codigo utilizado por el microcontrolador STM32F411 \cite{STM32F411} para el control de ADC, calculo de los voltajes RMS y comunicación serial
+
+
+\lstset{
+  language=C,
+  basicstyle=\ttfamily\footnotesize,
+  keywordstyle=\color{blue},
+  commentstyle=\color{gray},
+  stringstyle=\color{red},
+  numbers=left,               % Line numbers on the left
+  numberstyle=\tiny\color{gray},
+  stepnumber=1,                % Line number for every line
+  showstringspaces=false,      % Do not show spaces as special characters
+  tabsize=4,                   % Set tab width
+  breaklines=true,             % Line breaking on overflow
+  frame=lines                  % Add a frame around the code
+}
+
+%\lstinputlisting[linewidth =\textwidth, language=C, breaklines=true]{main.c}

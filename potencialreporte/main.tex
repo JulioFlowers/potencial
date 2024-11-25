@@ -1,0 +1,160 @@
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% Modelo-Proyecto-Monografía-Artículo %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[letterpaper,spanish,reprint,nofootinbib,showkeys,aps]{revtex4-2}
+%\documentclass[letterpaper,spanish,preprint,,,aps]{revtex4-2}
+\usepackage[paperwidth=210mm,paperheight=297mm,centering,hmargin=1.7cm,vmargin=1.7cm]{geometry}
+%%%paquetes usuales%%%
+\usepackage[utf8]{inputenc}%codificación
+\usepackage{csquotes}
+\usepackage[spanish, mexico
+]{babel}%Paquete de caracteres y títulos en español de méxico
+
+\usepackage{verbatim}%comentarios en bloque
+%\usepackage{circuitikz}
+\usepackage{amsmath, mathtools}%Paquete para insertar símbolos matemáticos
+\usepackage{amsbsy}
+\usepackage[bitstream-charter]{mathdesign}
+\usepackage[mathcal]{eucal}
+\DeclareSymbolFont{usualmathcal}{OMS}{cmsy}{m}{n}
+\DeclareSymbolFontAlphabet{\mathcal}{usualmathcal}
+
+\usepackage{textcomp}
+\usepackage{textcomp,gensymb}
+\usepackage{enumitem}
+\usepackage[dvipsnames,table,xcdraw, rgb]{xcolor}
+%%%Mejora la distribución de espacios%%%
+\usepackage{microtype}
+\usepackage[font=scriptsize,labelfont=bf]{caption}
+\addto\captionsspanish{\renewcommand{\figurename}{Fig.}}
+
+\usepackage[labelformat=simple]{subcaption}
+\renewcommand*{\thesubfigure}{\alph{subfigure})}
+
+%%%Fasores%%%
+\usepackage{steinmetz}
+
+%%%Figuras%%%
+\usepackage{graphicx}
+\usepackage{float}
+%\usepackage{tikz,pgfplots}
+%\pgfplotsset{compat=newest}
+
+\usepackage{physics} %Un gran paquete que facilita el uso de muchas notaciones en física, y que reemplaza otras cosas por una opción más bonita, diría yo
+\usepackage{bigints} %Puede hacer símbolos de integral más grandes
+
+\usepackage{nicefrac,xfrac}
+
+\usepackage{bm}
+\usepackage{changepage} % for adjusting margins
+
+\usepackage{listings}
+\usepackage{adjustbox}
+\usepackage{datetime}
+\usepackage{resizegather}
+%%%Definiendo colores%%%
+
+\usepackage{lmodern}
+
+\definecolor{dkgreen}{rgb}{0.0,0.6,0.0} 
+%\definecolor{blue}{rgb}{1.0,0.49,0.0}
+
+%%%Algunos comandos útiles para el PDF generado%%%
+\usepackage[unicode=true,pdfusetitle,
+ bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
+ breaklinks=false,pdfborder={0 0 1},backref=false,colorlinks=true]
+ {hyperref}
+\hypersetup{
+ citecolor=dkgreen,linkcolor=blue,urlcolor=blue}
+
+\graphicspath{{img/}} %Setting the graphicspath
+
+
+\makeatletter
+\def\@fnsymbol
+#1{\ensuremath{\ifcase#1\or *\or \dagger\or \ddagger\or
+   \mathsection\or \mathparagraph\or \|\or **\or \dagger\dagger
+   \or \ddagger\ddagger \else\@ctrerr\fi}}
+\makeatother
+
+\DeclareCaptionType{eqtag}[][Lista de ecuación.]
+\captionsetup[eqtag]{labelsep=period, name=Ecuación, skip=0.15\baselineskip}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\newcommand{\cita}[1]{\textsuperscript{\textbf{\cite{#1}}}} % este es para que la cita se vea en superíndice para ieee, si usan otro formato bórrenlo
+ \newcommand{\ut}[1]{\textbf{#1}} %les hace escribir menos si quieren poner negritas en texto y mate
+ \newcommand{\um}[1]{\boldsymbol{#1}}
+ \renewcommand{\thefootnote}{\Roman{footnote}} %los pie de pagina los pone en letras romanas
+ \newcommand{\dbar}{\text{\dj}}
+ \newcommand{\parentesis}[1]{\left(#1\right)}
+ \newcommand{\crch}[1]{\left[#1\right]}
+\newcommand{\fn}[1]{\mathrm{#1}}
+\newcommand{\fno}[1]{\mathrm{#1}(\omega)}
+\newcommand{\fnv}[2]{\mathrm{#1}(#2)}
+
+\lstset{
+    inputencoding=utf8,
+    extendedchars=true,
+    literate={á}{{\'a}}1 {é}{{\'e}}1 {í}{{\'i}}1 {ó}{{\'o}}1 {ú}{{\'u}}1
+            {Á}{{\'A}}1 {É}{{\'E}}1 {Í}{{\'I}}1 {Ó}{{\'O}}1 {Ú}{{\'U}}1
+            {ñ}{{\~n}}1 {Ñ}{{\~N}}1
+}
+
+\begin{document}
+
+\allowdisplaybreaks
+
+\title{Determinación del gas contenido en un tiratrón 2D21, mediante la obtención de la primer energía de ionización.}
+
+\author{ Pérez Flores Julio Alfonso}
+\email{julio_perez@ciencias.unam.mx}
+
+\affiliation{Facultad de Ciencias, Universidad Nacional Autónoma de México.}
+\thanks{Reporte práctica Laboratorio Contemporánea I, Semestre 2025-1.}
+
+%\newdate{date}{17}{06}{2024}
+\date{\today}
+
+
+\begin{abstract}
+ 
+\end{abstract}
+
+
+\keywords{2D21 Tyratron, first ionizing energy, Child-Langmuir law.}
+
+\maketitle
+
+
+\section{ Introducción}\label{sec:introduccion}
+
+\input{secciones/intro.tex}
+
+\section{Método.}\label{sec:metodo}
+
+\input{secciones/met.tex}
+
+\section{Resultados.}\label{sec:resdis}
+
+\input{secciones/resdiscus.tex}
+\input{secciones/resdiscus2.tex}
+
+\section{Conclusiones.}\label{sec:conclusiones}
+
+\input{secciones/conclusiones.tex}
+
+
+
+\section{APÉNDICE A:  Mediciones.}
+
+\input{secciones/apendiceA.tex}
+
+\bibliographystyle{ieeetr}
+\bibliography{citas}
+
+\end{document}
