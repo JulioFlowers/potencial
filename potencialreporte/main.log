@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  25 NOV 2024 16:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  25 NOV 2024 18:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1520,7 +1520,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--44
 /
  []
 
-
+[1{C:/Users/julio/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ju
+lio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/julio/
+AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/julio/
+AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/julio/AppD
+ata/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
 Underfull \hbox (badness 2653) in paragraph at lines 53--57
  []\T1/lmr/m/n/9 (+20) S. J. Ling, W. Moebs, and J. Sanny, ``9.3 re-
  []
@@ -1613,9 +1617,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--100
 Package caption Warning: Unused \captionsetup[eqtag] on input line 85.
 See the caption package documentation for explanation.
 
-[1{C:/Users/julio/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ju
-lio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/julio/
-AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] (main.aux)
+[2] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1625,27 +1627,31 @@ L3 programming layer <2024-01-04>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 551C41E35BA8E1EB3CBDC18B8B9D44D1;1612.
+(rerunfilecheck)             Checksum: 96AF3422251D5DA7DE6C3DBBD85B0E49;1630.
  ) 
 Here is how much of TeX's memory you used:
- 26163 strings out of 474486
- 430091 string characters out of 5743754
- 1963542 words of memory out of 5000000
- 47828 multiletter control sequences out of 15000+600000
- 642479 words of font info for 184 fonts, out of 8000000 for 9000
+ 26195 strings out of 474486
+ 430425 string characters out of 5743754
+ 1960542 words of memory out of 5000000
+ 47829 multiletter control sequences out of 15000+600000
+ 643623 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,8n,117p,1013b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,8n,117p,1621b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmb10.pfb
-><C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb>
-<C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C
-:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/
-Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/U
-sers/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Us
-ers/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Use
-rs/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
-Output written on main.pdf (1 page, 213987 bytes).
+><C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb
+><C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb>
+<C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><
+C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
+/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
+sers/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Use
+rs/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/User
+s/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/User
+s/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users
+/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/
+julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
+Output written on main.pdf (2 pages, 256920 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
+ 174 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
  48705 words of extra memory for PDF output out of 51595 (max. 10000000)
 
