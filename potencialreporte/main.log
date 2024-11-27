@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  25 NOV 2024 18:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  27 NOV 2024 12:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1429,11 +1429,53 @@ LaTeX Font Info:    Font shape `OMX/mdbch/b/n' will be
 (Font)              scaled to size 7.68005pt on input line 131.
 
 (secciones/intro.tex) (secciones/met.tex
+<img/circuitopot.png, id=38, 641.5167pt x 591.3292pt>
+File: img/circuitopot.png Graphic file (type png)
+<use img/circuitopot.png>
+Package pdftex.def Info: img/circuitopot.png  used on input line 4.
+(pdftex.def)             Requested size: 241.38435pt x 222.4968pt.
+) (secciones/resdiscus.tex
 
-LaTeX Warning: Reference `fig:circuit' on page 1 undefined on input line 1.
+LaTeX Warning: Reference `fig:pot1' on page 1 undefined on input line 1.
 
-) (secciones/resdiscus.tex) (secciones/resdiscus2.tex)
-(secciones/conclusiones.tex) (secciones/apendiceA.tex) (main.bbl
+
+LaTeX Warning: Reference `fig:pot10' on page 1 undefined on input line 1.
+
+
+LaTeX Warning: Reference `tab:pots' on page 1 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:pot1' on page 1 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:pot10' on page 1 undefined on input line 3.
+
+[1{C:/Users/julio/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ju
+lio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/julio/
+AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/julio/
+AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/julio/AppD
+ata/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc} <./img/circuitopot.
+png>]
+
+LaTeX Warning: Reference `fig:derspot1' on page 2 undefined on input line 6.
+
+
+LaTeX Warning: Reference `fig:derspot10' on page 2 undefined on input line 6.
+
+
+LaTeX Warning: Reference `fig:der3pot1' on page 2 undefined on input line 6.
+
+
+LaTeX Warning: Reference `fig:der3pot10' on page 2 undefined on input line 6.
+
+
+LaTeX Warning: Reference `fig:pot1' on page 2 undefined on input line 6.
+
+
+LaTeX Warning: Reference `fig:pot10' on page 2 undefined on input line 6.
+
+) (secciones/resdiscus2.tex) (secciones/conclusiones.tex)
+(secciones/apendiceA.tex) (main.bbl
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 6
 .
 
@@ -1520,11 +1562,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--44
 /
  []
 
-[1{C:/Users/julio/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ju
-lio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/julio/
-AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/julio/
-AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/julio/AppD
-ata/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
+
 Underfull \hbox (badness 2653) in paragraph at lines 53--57
  []\T1/lmr/m/n/9 (+20) S. J. Ling, W. Moebs, and J. Sanny, ``9.3 re-
  []
@@ -1627,31 +1665,33 @@ L3 programming layer <2024-01-04>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 96AF3422251D5DA7DE6C3DBBD85B0E49;1630.
+(rerunfilecheck)             Checksum: 3ABD4AAD9AC70756C434844FC30C5114;1630.
  ) 
 Here is how much of TeX's memory you used:
- 26195 strings out of 474486
- 430425 string characters out of 5743754
- 1960542 words of memory out of 5000000
- 47829 multiletter control sequences out of 15000+600000
- 643623 words of font info for 198 fonts, out of 8000000 for 9000
+ 26265 strings out of 474486
+ 431413 string characters out of 5743754
+ 1963542 words of memory out of 5000000
+ 47857 multiletter control sequences out of 15000+600000
+ 652768 words of font info for 220 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,8n,117p,1621b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,8n,117p,1621b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmb10.pfb
 ><C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb
 ><C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb>
 <C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><
-C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
-/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
-sers/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Use
-rs/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/User
-s/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/User
-s/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users
-/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/
-julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
-Output written on main.pdf (2 pages, 256920 bytes).
+C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:
+/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/U
+sers/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Use
+rs/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users
+/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users
+/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/
+julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/
+julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/j
+ulio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/ju
+lio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
+Output written on main.pdf (2 pages, 697878 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 48705 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 193 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
+ 52806 words of extra memory for PDF output out of 61914 (max. 10000000)
 
