@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  27 NOV 2024 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  27 NOV 2024 12:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1650,12 +1650,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--100
 +20) ,
  []
 
-)
+[2])
 
 Package caption Warning: Unused \captionsetup[eqtag] on input line 85.
 See the caption package documentation for explanation.
 
-[2] (main.aux)
+[3] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1668,13 +1668,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3ABD4AAD9AC70756C434844FC30C5114;1630.
  ) 
 Here is how much of TeX's memory you used:
- 26265 strings out of 474486
- 431413 string characters out of 5743754
- 1963542 words of memory out of 5000000
+ 26270 strings out of 474486
+ 431459 string characters out of 5743754
+ 1960542 words of memory out of 5000000
  47857 multiletter control sequences out of 15000+600000
- 652768 words of font info for 220 fonts, out of 8000000 for 9000
+ 652963 words of font info for 222 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,8n,117p,1621b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,8n,117p,2450b,782s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmb10.pfb
 ><C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb
 ><C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb>
@@ -1689,9 +1689,9 @@ julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/
 julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/j
 ulio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/ju
 lio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
-Output written on main.pdf (2 pages, 697878 bytes).
+Output written on main.pdf (3 pages, 700957 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
+ 197 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
  52806 words of extra memory for PDF output out of 61914 (max. 10000000)
 
