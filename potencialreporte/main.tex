@@ -14,6 +14,8 @@
 \usepackage[spanish, mexico
 ]{babel}%Paquete de caracteres y títulos en español de méxico
 
+\usepackage{floatrow}
+
 \usepackage{verbatim}%comentarios en bloque
 %\usepackage{circuitikz}
 \usepackage{amsmath, mathtools}%Paquete para insertar símbolos matemáticos
@@ -115,13 +117,15 @@
 \email{julio_perez@ciencias.unam.mx}
 
 \affiliation{Facultad de Ciencias, Universidad Nacional Autónoma de México.}
-\thanks{Reporte práctica Laboratorio Contemporánea I, Semestre 2025-1.}
+\thanks{Reporte práctica Laboratorio Contemporánea II, Semestre 2025-1.}
 
 %\newdate{date}{17}{06}{2024}
 \date{\today}
 
 
 \begin{abstract}
+
+Se determinó un valor promedio de la primer energía de ionización del gas dentro de un tiratrón 2D21, obteniendo un valor de \ut{10.59 eV}, con un intervalo de confianza de \ut{0.8 eV}, medición la cual se aproxima con un error porcentual del \ut{1.54 \%} al valor de ionización del vapor de mercurio, gas utilizado en el diseño de este tiratrón. Estos valores se  obtenieron mediante el análisis de las curvas de corriente en función de $V^{\nicefrac{3}{2}}$, así como ajustes por mínimos cuadrados de la región lineal, suavización de curvas utilizando el método LOESS y derivación numérica. Se pudieron identificaron las tres regiones clave: la región gobernada por la ley de Child-Langmuir, la zona de transición y la zona de saturación. Este método, además de validar la presencia de mercurio en el bulbo del tiratrón, destaca por su precisión y ofrece un enfoque reproducible para estudios similares. Así mismo se realizó una discusión sobre mejoras instrumentales para reducir el ruido experimental y optimizar futuros análisis. 
  
 \end{abstract}
 
@@ -148,9 +152,13 @@
 
 \input{secciones/conclusiones.tex}
 
+\vfill
+\pagebreak
+
+\onecolumngrid
 
 
-\section{APÉNDICE A:  Mediciones.}
+\section{APÉNDICE A: Primera y segunda derivada numérica para los barridos de I en función $V^{\nicefrac{3}{2}}$ .}
 
 \input{secciones/apendiceA.tex}
 

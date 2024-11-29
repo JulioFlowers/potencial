@@ -1,2 +1,109 @@
-\subsection{Derivación ley de Stefan-Boltzmann.}\label{subsec:ley}
 
+El potencial de ionización es la energía mínima necesaria para arrancar un electrón de un átomo o ion en su estado gaseoso y en su nivel más externo corresponde a un electron en la capa de valencia, esta energía  indica la probabilidad de que un átomo forme un catión y, de ser así, qué carga tendría. En términos generales, refleja qué tan fuertemente está unido un electrón al núcleo y cuán estable es. Además, permite inferir las energías de los orbitales reales, los efectos que los electrones ejercen entre sí, y ayuda a predecir la reactividad química y las propiedades de las moléculas \cite{emily}. Debido a su importancia en el estudio de las propiedades atómicas se determina en este trabajo el gas contenido en un tiratrón 2D21, en función de la primer energía de ionización.  
+
+\subsection{Energía de Ionización.}
+
+La primera energía de ionización es la mínima energía necesaria para remover un electrón de la capa de valencia de un átomo o ion en estado gaseoso. Este proceso genera un ion positivo, las energías de ionización de los elementos siguen comportamientos periódicos en función del numero atómico y la cantidad de electrones, lo que permite determinar el comportamiento electrónico de los elementos \cite{libretexts}.
+
+
+Conforme se progresa de izquierda a derecha en un intervalo de la tabla periódica, la energía de ionización suele incrementarse, ya que la atracción neta que el núcleo tiene sobre los electrones de valencia aumenta al incorporarse más protones al núcleo, este ejerce una fuerza atractiva más intensa sobre los electrones externos, lo que disminuye su distancia real al núcleo  y complica su eliminación. Simultáneamente, el tamaño atómico se reduce, lo que fortalece esta atracción y eleva la energía requerida para la ionización del átomo, esta tendencia se mantiene hasta que la capa de valencia esta completa, como es el caso de los gases nobles, los cuales presenten el máximo de energía de ionización por periodo. Así mismo entre el grupo con un electrón de valencia y el de los gases nobles la energía de ionización dependerá del ordenamiento de los electrones en el ultimo orbital del átomo.
+
+Conforme se progresa de arriba a abajo q lo largo de un grupo en la tabla periódica,  la energía de ionización tiende a disminuir, ya que los electrones en la capa de valencia se ven principalmente afectada por la distancia al núcleo y el efecto pantalla. Los electrones de valencia de los elementos inferiores en un grupo se ubican en niveles energéticos superiores, más distantes del núcleo. La distancia más larga disminuye la fuerza de atracción nuclear. Además, el efecto pantalla que se generan entre los electrones con carga negativa en las otras capas mas cercanas al núcleo disminuye aún más la atracción efectiva del núcleo hacia los electrones externos, favoreciendo su eliminación. \cite{petrucci}. 
+
+\subsection{Emisión termoiónica}
+
+La emisión termiónica es un fenómeno asociado a la cinética de los electrones, los cuales traspasan la barrera de la función de trabajo del material. A temperatura ambiente, solo algunos estados cuánticos superiores al nivel de Fermi están ocupados, sin embargo, siempre existirán electrones en estados de alta energía cuando la temperatura supere los 0 K. Los electrones que poseen la energía cinética suficiente para superar la barrera de potencial del metal pueden escapar de este, convirtiendo una porción de su energía cinética en energía potencial \cite{huffman}.
+
+La densidad de corriente \( J \) de electrones emitidos desde una superficie uniforme de metal a una temperatura absoluta \( T \) se describe con la ecuación de Richardson:
+
+\begin{equation}
+	J = (1 - r) A T^2 \exp\left(-\frac{\phi}{kT}\right),
+\end{equation}
+
+donde \( A \) es una constante que depende de constantes físicas fundamentales y \( r \) es el coeficiente de reflexión de electrones en la superficie. Si se supone que \( r = 0 \), la ecuación se simplifica a:
+
+\begin{equation}
+J = 120 T^2 \exp\left(-\frac{11606 \phi}{T}\right),
+\end{equation}
+
+
+donde \( \phi \) es la función de trabajo en electronvoltios y \( T \) es la temperatura en kelvins. Esta densidad de corriente es conocida como corriente de saturación y aumenta rápidamente con la temperatura y disminuye con la función de trabajo. Un campo eléctrico aplicado fuerte puede modificar la emisión de electrones al superponerse con la fuerza de imagen, cambiando la distribución del potencial fuera del electrodo.
+
+\subsection{Ley de Langmuir-Child.}
+
+La carga espaciales un termino que caracteriza una distribución constante de carga, provocada por la generación de una cantidad proporcionalmente mayor de cargas con respecto al espacio donde son generada, de tal forma que no es posible identificar a las  partículas cargadas de forma específica, esta carga espacial se puede encontrar en sistemas como diodos de vacío. De forma general establece que la máxima densidad de corriente posible, denominada corriente limitada por carga espacial, es proporcional $V^{\nicefrac{3}{2}}$, y al inverso del cuadrado de la distancia entre los electrodos. \cite{lau, gonzalez}. Así mismo González \cite{gonzalez} presenta la derivación usual de esta ley 
+
+Si se parte de un par de electrodos planos infinitos separados a una \( D \), con una diferencia de potencial \( V \), se obtiene de la ecuación de Poisson:
+
+\begin{equation}
+	\frac{d^2 V}{dz^2} = -\frac{\rho}{\epsilon_0},
+\end{equation}
+
+donde \( V \) es el potencial electrostático, \( \rho \) es la densidad de carga volumétrica y \( \epsilon_0 \) es la permitividad del vacío.
+
+La densidad de corriente \( J \) puede definirse como:
+
+\begin{equation}
+	J(z) = \rho(z) v(z) = -J_\text{CL},
+\end{equation}
+
+donde \( v \) es la velocidad de los electrones. Según la conservación de la carga, \( J \) es constante a lo largo de \( z \). La velocidad de los electrones puede determinarse aplicando la conservación de la energía:
+
+\begin{equation}
+	\frac{m v^2}{2} - e V = 0,
+\end{equation}
+
+donde \( m \) y \( e \) representan la masa y la carga del electrón, respectivamente. En esta ecuación se asume que los electrones parten desde el cátodo con velocidad inicial cero. Resolviendo para \( v \) y sustituyendo en la ecuación (2), obtenemos la densidad de carga volumétrica:
+
+\begin{equation}
+	\label{eq:otrarho}
+	\rho(z) = -\frac{J}{2e} \sqrt{\frac{m}{V}}.
+\end{equation}
+
+Sustituyendo esta última expresión en la ecuación de Poisson (1), obtenemos una ecuación diferencial no lineal de segundo orden para el potencial electrostático:
+
+\begin{equation}
+	\frac{d^2 V}{dz^2} = \frac{J}{\epsilon_0} \sqrt{\frac{2e}{m V}},
+\end{equation}
+
+con las condiciones de frontera:
+
+\begin{equation}
+	\left.\frac{dV}{dz}\right|_{z=0} = 0, \quad V(z)|_{z=0} = 0.
+\end{equation}
+
+La solución para el potencial electrostático es:
+
+\begin{equation}
+	\label{eq:vz}
+	V(z) = V_0 \left( \frac{z}{D} \right)^{4/3},
+\end{equation}
+
+y la densidad de carga volumétrica en la separación es:
+
+\begin{equation}
+	\label{eq:rho}
+	\rho(z) = -\frac{4 \epsilon_0 V_0}{9 D^2} \left( \frac{D}{z} \right)^{2/3}.
+\end{equation}
+
+Sustituyendo las ecuaciones \ut{\ref{eq:vz}} y \ut{\ref{eq:rho}} en \ut{\ref{eq:otrarho}}, se encuentra que la densidad de corriente limitada por carga espacial está dada por:
+
+\begin{equation}
+	J = \frac{4 \epsilon_0}{9 D^2} \sqrt{\frac{2e}{m}} V_0^{3/2}.
+\end{equation}
+
+Finalmente de la definición densidad de corriente se tiene que 
+
+\begin{equation}
+	I =  \frac{4 \epsilon_0}{9} \sqrt{\frac{2e}{m}} V_0^{3/2}.
+\end{equation}
+
+donde $k = \frac{4 \epsilon_0}{9} \sqrt{\frac{2e}{m}}$, son cantidades constantes.
+
+\subsection{Tiratrón.}
+
+El tiratrón es una valvula de vacio de descarga por arco controlado por rejilla. Aunque comparte una estructura similar con el Pliotron, un tubo de vacío que requiere un flujo muy puro de electrones y es sensible a la presencia de iones positivos, su funcionamiento es completamente diferente. En el tiratrón, la corriente electrónica debe estar equilibrada con iones positivos, lo que elimina las repulsiones entre electrones. Esto permite que soporte corrientes mucho mayores con caídas de voltaje significativamente más bajas, haciendo posible manejar amperios con voltajes de 10 a 18 voltios, en contraste con los miliamperios y cientos de voltios requeridos por el Pliotron \cite{franklin}. Por lo general estos poseen en su interior un gas a bajas presiones, principalmente argón, helio, kriptón, neón, xenón, mercurio \cite{rhoet}, con potenciales de ionización de 15.76 eV, 24.59 eV, 14.00 eV, 21.56 eV, 12.13 eV, 10.44 eV, respectivamente \cite{lide}.
+
+\subsection{LOESS.}
+
+El método LOESS ajusta localmente un polinomio ponderado de segundo grado dentro de un intervalo denominado "ventana". Este enfoque asigna una función de peso tanto al dominio como a la imagen generada por el polinomio, de modo que los puntos más cercanos al punto a ajustar contribuyen más significativamente al ajuste. Asimismo, los valores de la imagen más próximos a estos puntos reciben un peso mayor. Existen diversas funciones de peso; para el suavizado de los datos en este estudio, se utilizó la función gaussiana. Una compilación detallada de estos métodos puede encontrarse en \cite{kelmansky}, \cite{nist} y \cite{cleveland}.

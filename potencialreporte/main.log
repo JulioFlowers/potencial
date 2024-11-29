@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  27 NOV 2024 12:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  28 NOV 2024 18:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -188,15 +188,73 @@ Package babel Info: Making " an active character on input line 570.
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
 )
+(C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/floatrow\floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+
+(C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen149
+\captionmargin=\dimen150
+\caption@leftmargin=\dimen151
+\caption@rightmargin=\dimen152
+\caption@width=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\par \vskip \abovecapti
+onskip \begingroup \small \rmfamily \sbox \@tempboxa {\let \\\heading@cr \@make
+@capt@title {#1}{#2}}\@ifdim {\wd \@tempboxa >\hsize }{\begingroup \samepage \f
+lushing \let \footnote \@footnotemark@gobble \@make@capt@title {#1}{#2}\par \en
+dgroup }{\global \@minipagefalse \hb@xt@ \hsize {\hfil \unhbox \@tempboxa \hfil
+ }}\endgroup \vskip \belowcaptionskip  on input line 1175.
+)
+\c@float@type=\count282
+\float@exts=\toks25
+\float@box=\box66
+\@floatcapt=\box67
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks26
+\flrow@foot=\insert252
+\FB@wd=\dimen157
+\FBo@wd=\dimen158
+\FBc@wd=\dimen159
+\FBo@ht=\skip53
+\FBc@ht=\skip54
+\FBf@ht=\skip55
+\FBo@max=\skip56
+\FBc@max=\skip57
+\FBf@max=\skip58
+\c@FBl@b=\count283
+\floatbox@depth=\count284
+\c@FRobj=\count285
+\c@FRsobj=\count286
+\Xhsize=\skip59
+\sXhsize=\skip60
+\Zhsize=\skip61
+\sZhsize=\skip62
+\flrow@rowbox=\box68
+\FR@Zunitlength=\dimen160
+\c@FBcnt=\count287
+\FPOScnt=\count288
+\LTleft=\skip63
+\LTright=\skip64
+\LTleft=\skip65
+\LTright=\skip66
+\flrow@types=\toks27
+)
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks25
-\verbatim@line=\toks26
+\every@verbatim=\toks28
+\verbatim@line=\toks29
 \verbatim@in@stream=\read3
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip53
+\@mathmargin=\skip67
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
@@ -204,63 +262,63 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks27
-\ex@=\dimen149
+\@emptytoks=\toks30
+\ex@=\dimen161
 )
 LaTeX Info: Redefining \text on input line 28.
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen150
+\pmbraise@=\dimen162
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count282
+\inf@bad=\count289
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count283
-\leftroot@=\count284
+\uproot@=\count290
+\leftroot@=\count291
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count285
-\DOTSCASE@=\count286
+\classnum@=\count292
+\DOTSCASE@=\count293
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box66
-\strutbox@=\box67
+\Mathstrutbox@=\box69
+\strutbox@=\box70
 LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen151
+\big@size=\dimen163
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count287
+\macc@depth=\count294
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count288
+\c@MaxMatrixCols=\count295
 \dotsspace@=\muskip17
-\c@parentequation=\count289
-\dspbrk@lvl=\count290
-\tag@help=\toks28
-\row@=\count291
-\column@=\count292
-\maxfields@=\count293
-\andhelp@=\toks29
-\eqnshift@=\dimen152
-\alignsep@=\dimen153
-\tagshift@=\dimen154
-\tagwidth@=\dimen155
-\totwidth@=\dimen156
-\lineht@=\dimen157
-\@envbody=\toks30
-\multlinegap=\skip54
-\multlinetaggap=\skip55
-\mathdisplay@stack=\toks31
+\c@parentequation=\count296
+\dspbrk@lvl=\count297
+\tag@help=\toks31
+\row@=\count298
+\column@=\count299
+\maxfields@=\count300
+\andhelp@=\toks32
+\eqnshift@=\dimen164
+\alignsep@=\dimen165
+\tagshift@=\dimen166
+\tagwidth@=\dimen167
+\totwidth@=\dimen168
+\lineht@=\dimen169
+\@envbody=\toks33
+\multlinegap=\skip68
+\multlinetaggap=\skip69
+\mathdisplay@stack=\toks34
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -268,31 +326,31 @@ LaTeX Info: Redefining \] on input line 2954.
 Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count294
-\calc@Bcount=\count295
-\calc@Adimen=\dimen158
-\calc@Bdimen=\dimen159
-\calc@Askip=\skip56
-\calc@Bskip=\skip57
+\calc@Acount=\count301
+\calc@Bcount=\count302
+\calc@Adimen=\dimen170
+\calc@Bdimen=\dimen171
+\calc@Askip=\skip70
+\calc@Bskip=\skip71
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count296
-\calc@Cskip=\skip58
+\calc@Ccount=\count303
+\calc@Cskip=\skip72
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count297
-\l_MT_multwidth_dim=\dimen160
-\origjot=\skip59
-\l_MT_shortvdotswithinadjustabove_dim=\dimen161
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen162
-\l_MT_above_intertext_sep=\dimen163
-\l_MT_below_intertext_sep=\dimen164
-\l_MT_above_shortintertext_sep=\dimen165
-\l_MT_below_shortintertext_sep=\dimen166
-\xmathstrut@box=\box68
-\xmathstrut@dim=\dimen167
+\g_MT_multlinerow_int=\count304
+\l_MT_multwidth_dim=\dimen172
+\origjot=\skip73
+\l_MT_shortvdotswithinadjustabove_dim=\dimen173
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen174
+\l_MT_above_intertext_sep=\dimen175
+\l_MT_below_intertext_sep=\dimen176
+\l_MT_above_shortintertext_sep=\dimen177
+\l_MT_below_shortintertext_sep=\dimen178
+\xmathstrut@box=\box71
+\xmathstrut@dim=\dimen179
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign\mathdesign.s
 ty
@@ -452,10 +510,10 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks32
-\XKV@tempa@toks=\toks33
+\XKV@toks=\toks35
+\XKV@tempa@toks=\toks36
 )
-\XKV@depth=\count298
+\XKV@depth=\count305
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line
@@ -481,7 +539,7 @@ LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
 (Font)                  MDB/mdbch/m/n --> MDB/mdbch/b/n on input line 498.
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
-\rulethickness=\skip60
+\rulethickness=\skip74
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -501,7 +559,7 @@ LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
 (Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
 )
 \symusualmathcal=\mathgroup9
-LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 24.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 26.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
@@ -511,12 +569,12 @@ Package: gensymb 2022/10/17 v1.0.2 (KJH)
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip61
-\enit@outerparindent=\dimen168
-\enit@toks=\toks34
-\enit@inbox=\box69
-\enit@count@id=\count299
-\enitdp@description=\count300
+\labelindent=\skip75
+\enit@outerparindent=\dimen180
+\enit@toks=\toks37
+\enit@inbox=\box72
+\enit@count@id=\count306
+\enitdp@description=\count307
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
@@ -545,31 +603,31 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen169
-\ar@mcellbox=\box70
-\extrarowheight=\dimen170
-\NC@list=\toks35
-\extratabsurround=\skip62
-\backup@length=\skip63
-\ar@cellbox=\box71
+\col@sep=\dimen181
+\ar@mcellbox=\box73
+\extrarowheight=\dimen182
+\NC@list=\toks38
+\extratabsurround=\skip76
+\backup@length=\skip77
+\ar@cellbox=\box74
 )
-\everycr=\toks36
-\minrowclearance=\skip64
-\rownum=\count301
+\everycr=\toks39
+\minrowclearance=\skip78
+\rownum=\count308
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
-\MT@toks=\toks37
-\MT@tempbox=\box72
-\MT@count=\count302
+\MT@toks=\toks40
+\MT@tempbox=\box75
+\MT@count=\count309
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
 LaTeX Info: Redefining \leftprotrusion on input line 1062.
-\MT@prot@toks=\toks38
+\MT@prot@toks=\toks41
 LaTeX Info: Redefining \rightprotrusion on input line 1081.
 LaTeX Info: Redefining \textls on input line 1392.
-\MT@outer@kern=\dimen171
+\MT@outer@kern=\dimen183
 LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
-\MT@listname@count=\count303
+\MT@listname@count=\count310
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
 tex.def
@@ -577,7 +635,7 @@ File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 902.
 LaTeX Info: Redefining \lslig on input line 902.
-\MT@outer@space=\skip65
+\MT@outer@space=\skip79
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -586,39 +644,23 @@ File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
 )) (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
-(C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
-Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen172
-\captionmargin=\dimen173
-\caption@leftmargin=\dimen174
-\caption@rightmargin=\dimen175
-\caption@width=\dimen176
-\caption@indent=\dimen177
-\caption@parindent=\dimen178
-\caption@hangindent=\dimen179
-Package caption Info: Unknown document class (or package),
-(caption)             standard defaults will be used.
-Package caption Info: \@makecaption = \long macro:#1#2->\par \vskip \abovecapti
-onskip \begingroup \small \rmfamily \sbox \@tempboxa {\let \\\heading@cr \@make
-@capt@title {#1}{#2}}\@ifdim {\wd \@tempboxa >\hsize }{\begingroup \samepage \f
-lushing \let \footnote \@footnotemark@gobble \@make@capt@title {#1}{#2}\par \en
-dgroup }{\global \@minipagefalse \hb@xt@ \hsize {\hfil \unhbox \@tempboxa \hfil
- }}\endgroup \vskip \belowcaptionskip  on input line 1175.
-)
 
 Package caption Warning: Unknown document class (or package),
 (caption)                standard defaults will be used.
 See the caption package documentation for explanation.
 
-\c@caption@flags=\count304
-\c@continuedfloat=\count305
+\c@caption@flags=\count311
+\c@continuedfloat=\count312
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: floatrow package is loaded.
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count306
+\c@subfigure=\count313
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count307
+\c@subtable=\count314
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/steinmetz\steinmetz.sty
 Package: steinmetz 2009/06/14 v1.0 Steinmetz symbol for electrotechnics
@@ -637,21 +679,21 @@ File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-\pIIe@GRAPH=\toks39
-\@arclen=\dimen180
-\@arcrad=\dimen181
-\pIIe@tempdima=\dimen182
-\pIIe@tempdimb=\dimen183
-\pIIe@tempdimc=\dimen184
-\pIIe@tempdimd=\dimen185
-\pIIe@tempdime=\dimen186
-\pIIe@tempdimf=\dimen187
+\pIIe@GRAPH=\toks42
+\@arclen=\dimen184
+\@arcrad=\dimen185
+\pIIe@tempdima=\dimen186
+\pIIe@tempdimb=\dimen187
+\pIIe@tempdimc=\dimen188
+\pIIe@tempdimd=\dimen189
+\pIIe@tempdime=\dimen190
+\pIIe@tempdimf=\dimen191
 )
-\stm@phasebox=\box73
-\stm@phasedp=\skip66
-\stm@phaseht=\skip67
-\stm@phasetot=\skip68
-\stm@phasewd=\skip69
+\stm@phasebox=\box76
+\stm@phasedp=\skip80
+\stm@phaseht=\skip81
+\stm@phasetot=\skip82
+\stm@phasewd=\skip83
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -665,15 +707,8 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen188
-\Gin@req@width=\dimen189
-) (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count308
-\float@exts=\toks40
-\float@box=\box74
-\@float@everytoks=\toks41
-\@floatcapt=\box75
+\Gin@req@height=\dimen192
+\Gin@req@width=\dimen193
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
 Package: physics 
@@ -686,8 +721,8 @@ Package: expl3 2024-01-04 L3 programming layer (loader)
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count309
-\l__pdf_internal_box=\box76
+\l__color_backend_stack_int=\count315
+\l__pdf_internal_box=\box77
 ))
 Package: xparse 2023-10-10 L3 Experimental document command parser
 ))
@@ -697,9 +732,9 @@ Package bigints Info: This is Bigints by Merciadri Luca. on input line 5.
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/units\nicefrac.sty
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip70
-\L@UnitsRaiseTextstyle=\skip71
-\L@UnitsRaiseScriptstyle=\skip72
+\L@UnitsRaiseDisplaystyle=\skip84
+\L@UnitsRaiseTextstyle=\skip85
+\L@UnitsRaiseScriptstyle=\skip86
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfrac\xfrac.
 sty
@@ -710,19 +745,19 @@ Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xt
 emplate.sty
 Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen190
-\l__xtemplate_tmp_int=\count310
+\l__xtemplate_tmp_dim=\dimen194
+\l__xtemplate_tmp_int=\count316
 \l__xtemplate_tmp_muskip=\muskip18
-\l__xtemplate_tmp_skip=\skip73
+\l__xtemplate_tmp_skip=\skip87
 )
 Package: xfrac 2023-10-10 L3 Experimental split-level fractions
-\l__xfrac_slash_box=\box77
-\l__xfrac_tmp_box=\box78
-\l__xfrac_denominator_bot_sep_dim=\dimen191
-\l__xfrac_numerator_bot_sep_dim=\dimen192
-\l__xfrac_numerator_top_sep_dim=\dimen193
-\l__xfrac_slash_left_sep_dim=\dimen194
-\l__xfrac_slash_right_sep_dim=\dimen195
+\l__xfrac_slash_box=\box78
+\l__xfrac_tmp_box=\box79
+\l__xfrac_denominator_bot_sep_dim=\dimen195
+\l__xfrac_numerator_bot_sep_dim=\dimen196
+\l__xfrac_numerator_top_sep_dim=\dimen197
+\l__xfrac_slash_left_sep_dim=\dimen198
+\l__xfrac_slash_right_sep_dim=\dimen199
 \l__xfrac_slash_left_muskip=\muskip19
 \l__xfrac_slash_right_muskip=\muskip20
 
@@ -743,28 +778,28 @@ LaTeX Info: Redefining \bm on input line 219.
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.s
 ty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count311
-\cp@tempcnt=\count312
+\c@cp@cntr=\count317
+\cp@tempcnt=\count318
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count313
-\lst@gtempboxa=\box79
-\lst@token=\toks42
-\lst@length=\count314
-\lst@currlwidth=\dimen196
-\lst@column=\count315
-\lst@pos=\count316
-\lst@lostspace=\dimen197
-\lst@width=\dimen198
-\lst@newlines=\count317
-\lst@lineno=\count318
-\lst@maxwidth=\dimen199
+\lst@mode=\count319
+\lst@gtempboxa=\box80
+\lst@token=\toks43
+\lst@length=\count320
+\lst@currlwidth=\dimen256
+\lst@column=\count321
+\lst@pos=\count322
+\lst@lostspace=\dimen257
+\lst@width=\dimen258
+\lst@newlines=\count323
+\lst@lineno=\count324
+\lst@maxwidth=\dimen259
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count319
-\lst@skipnumbers=\count320
-\lst@framebox=\box80
+\c@lstnumber=\count325
+\lst@skipnumbers=\count326
+\lst@framebox=\box81
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
@@ -783,36 +818,36 @@ Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
 ty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box81
+\collectedbox=\box82
 )
-\tc@llx=\dimen256
-\tc@lly=\dimen257
-\tc@urx=\dimen258
-\tc@ury=\dimen259
+\tc@llx=\dimen260
+\tc@lly=\dimen261
+\tc@urx=\dimen262
+\tc@ury=\dimen263
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen260
-\adjbox@Height=\dimen261
-\adjbox@Depth=\dimen262
-\adjbox@Totalheight=\dimen263
-\adjbox@pwidth=\dimen264
-\adjbox@pheight=\dimen265
-\adjbox@pdepth=\dimen266
-\adjbox@ptotalheight=\dimen267
+\adjbox@Width=\dimen264
+\adjbox@Height=\dimen265
+\adjbox@Depth=\dimen266
+\adjbox@Totalheight=\dimen267
+\adjbox@pwidth=\dimen268
+\adjbox@pheight=\dimen269
+\adjbox@pdepth=\dimen270
+\adjbox@ptotalheight=\dimen271
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count321
+\c@checkoddpage=\count327
 LaTeX Info: Redefining \checkoddpage on input line 45.
 ) (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box82
-\sift@deathcycles=\count322
-\@vwid@loff=\dimen268
-\@vwid@roff=\dimen269
+\@vwid@box=\box83
+\sift@deathcycles=\count328
+\@vwid@loff=\dimen272
+\@vwid@roff=\dimen273
 ))
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
@@ -826,38 +861,38 @@ Package: fcprefix 2012/09/28
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser.st
 y
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count323
+\fc@digit@counter=\count329
 ))
-\c@padzeroesN=\count324
-\fc@tmpcatcode=\count325
+\c@padzeroesN=\count330
+\fc@tmpcatcode=\count331
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-spanish.def
 File: fc-spanish.def 2016/01/12
 )
-\@DT@modctr=\count326
-\@ordinalctr=\count327
-\@orgargctr=\count328
-\@strctr=\count329
-\@tmpstrctr=\count330
-\@DT@loopN=\count331
-\@DT@X=\count332
+\@DT@modctr=\count332
+\@ordinalctr=\count333
+\@orgargctr=\count334
+\@strctr=\count335
+\@tmpstrctr=\count336
+\@DT@loopN=\count337
+\@DT@X=\count338
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime-defau
 lts.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count333
-\@month=\count334
-\@year=\count335
-\c@HOUR=\count336
-\c@HOURXII=\count337
-\c@MINUTE=\count338
-\c@TOHOUR=\count339
-\c@TOMINUTE=\count340
-\c@SECOND=\count341
-\currenthour=\count342
-\currentminute=\count343
-\currentsecond=\count344
+\@day=\count339
+\@month=\count340
+\@year=\count341
+\c@HOUR=\count342
+\c@HOURXII=\count343
+\c@MINUTE=\count344
+\c@TOHOUR=\count345
+\c@TOMINUTE=\count346
+\c@SECOND=\count347
+\currenthour=\count348
+\currentminute=\count349
+\currentsecond=\count350
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
 
@@ -865,12 +900,12 @@ put line 308.
 File: dt-spanish.def 2013/09/10
 LaTeX Info: Redefining \datespanish on input line 85.
 )
-\@dtctr=\count345
-\dayofyear=\count346
-\dayofweek=\count347
+\@dtctr=\count351
+\dayofyear=\count352
+\dayofweek=\count353
 LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks43
-\dt@b=\toks44
+\dt@a=\toks44
+\dt@b=\toks45
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\resizegather.s
 ty
@@ -967,11 +1002,11 @@ Package nameref Warning: The definition of \label has changed!
 (nameref)                Replacing it with the kernel definition on input line 
 149.
 
-\c@section@level=\count348
+\c@section@level=\count354
 )
-\@linkdim=\dimen270
-\Hy@linkcounter=\count349
-\Hy@pagecounter=\count350
+\@linkdim=\dimen274
+\Hy@linkcounter=\count355
+\Hy@pagecounter=\count356
  (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -980,7 +1015,7 @@ Now handling font encoding PD1 ...
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count351
+\Hy@SavedSpaceFactor=\count357
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
@@ -1003,9 +1038,9 @@ Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4448.
 LaTeX Info: Redefining \href on input line 4697.
-\c@Hy@tempcnt=\count352
+\c@Hy@tempcnt=\count358
 LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen271
+\XeTeXLinkMargin=\dimen275
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -1015,9 +1050,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count353
-\Field@Width=\dimen272
-\Fld@charsize=\dimen273
+\Fld@menulength=\count359
+\Field@Width=\dimen276
+\Fld@charsize=\dimen277
 Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
@@ -1030,9 +1065,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6095.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count354
-\c@Item=\count355
-\c@Hfootnote=\count356
+\Hy@abspage=\count360
+\c@Item=\count361
+\c@Hfootnote=\count362
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -1043,8 +1078,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count357
-\c@bookmark@seq@number=\count358
+\Fld@listcount=\count363
+\c@bookmark@seq@number=\count364
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -1057,10 +1092,10 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip74
+\Hy@SectionHShift=\skip88
 )
 Package caption Info: Option `declare type' requires the `newfloat' package on 
-input line 84.
+input line 86.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/newfloat\newfloat.sty
 Package: newfloat 2023/10/01 v1.2 Defining new floating environments (AR)
@@ -1075,64 +1110,64 @@ Package newfloat Info: \Hy@org@chapter = macro:[#1]#2->\NR@gettitle {#1}\NR@cha
 pter [{#1}]{#2}.
 Package newfloat Info: \algocf@original@chapter = undefined.
 )
-Package newfloat Info: New float `eqtag' with options `' on input line 84.
-\c@eqtag=\count359
-Package newfloat Info: float type `eqtag'=4 on input line 84.
-Package caption Info: New subtype `subeqtag' on input line 84.
-\c@subeqtag=\count360
+Package newfloat Info: New float `eqtag' with options `' on input line 86.
+\c@eqtag=\count365
+Package newfloat Info: float type `eqtag'=4 on input line 86.
+Package caption Info: New subtype `subeqtag' on input line 86.
+\c@subeqtag=\count366
 Class revtex4-2 Info: colortbl package is loaded. (Proceeding with fingers cros
-sed.) on input line 108.
+sed.) on input line 110.
 
 
-Class revtex4-2 Warning: Repair the float package.
+Class revtex4-2 Warning: Failed to patch the float package.
 
-Class revtex4-2 Info: cite was not loaded (OK!) on input line 108.
-Class revtex4-2 Info: mcite was not loaded (OK!) on input line 108.
-Class revtex4-2 Info: multicol was not loaded (OK!) on input line 108.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 110.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 110.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 110.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 10
-8.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+0.
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 108.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 110.
 LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 1
-08.
+10.
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign\mdacmr.fd
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 110.
 LaTeX Font Info:    Trying to load font information for MDB+cmr on input line 1
-08.
+10.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign\mdbcmr.fd
 File: mdbcmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1170,34 +1205,41 @@ LaTeX Font Info:    ... okay on input line 108.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 108.
-LaTeX Info: Redefining \% on input line 108.
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen278
+\caption@adjustwidth@linewidth=\dimen279
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
 \symgns@font=\mathgroup14
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/lmr/m/n --> TS1/lmr/b/n on input line 108.
-Package gensymb Info: Math companion symbols declared on input line 108.
-LaTeX Info: Redefining \degree on input line 108.
-LaTeX Info: Redefining \celsius on input line 108.
+(Font)                  TS1/lmr/m/n --> TS1/lmr/b/n on input line 110.
+Package gensymb Info: Math companion symbols declared on input line 110.
+LaTeX Info: Redefining \degree on input line 110.
+LaTeX Info: Redefining \celsius on input line 110.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 108.
-LaTeX Info: Redefining \ohm on input line 108.
-Package gensymb Info: Using \textohm for \ohm on input line 108.
-Package gensymb Info: Using \textmu for \micro on input line 108.
+erthousand on input line 110.
+LaTeX Info: Redefining \ohm on input line 110.
+Package gensymb Info: Using \textohm for \ohm on input line 110.
+Package gensymb Info: Using \textmu for \micro on input line 110.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count361
-\scratchdimen=\dimen274
-\scratchbox=\box83
-\nofMPsegments=\count362
-\nofMParguments=\count363
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count364
-\MPscratchDim=\dimen275
-\MPnumerator=\count365
-\makeMPintoPDFobject=\count366
-\everyMPtoPDFconversion=\toks46
+\scratchcounter=\count367
+\scratchdimen=\dimen280
+\scratchbox=\box84
+\nofMPsegments=\count368
+\nofMParguments=\count369
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count370
+\MPscratchDim=\dimen281
+\MPnumerator=\count371
+\makeMPintoPDFobject=\count372
+\everyMPtoPDFconversion=\toks47
 )
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -1209,19 +1251,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \microtypecontext on input line 108.
-Package microtype Info: Applying patch `item' on input line 108.
-Package microtype Info: Applying patch `toc' on input line 108.
-Package microtype Info: Applying patch `eqnum' on input line 108.
-Package microtype Info: Applying patch `footnote' on input line 108.
-Package microtype Info: Applying patch `verbatim' on input line 108.
+LaTeX Info: Redefining \microtypecontext on input line 110.
+Package microtype Info: Applying patch `item' on input line 110.
+Package microtype Info: Applying patch `toc' on input line 110.
+Package microtype Info: Applying patch `eqnum' on input line 110.
+Package microtype Info: Applying patch `footnote' on input line 110.
+Package microtype Info: Applying patch `verbatim' on input line 110.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 108.
+LaTeX Info: Redefining \showhyphens on input line 110.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1230,16 +1272,8 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen276
-\caption@adjustwidth@linewidth=\dimen277
-Package caption Info: float package is loaded.
-Package caption Info: hyperref package is loaded.
-Package caption Info: listings package is loaded.
-Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count367
-Package hyperref Info: Link coloring ON on input line 108.
+\c@lstlisting=\count373
+Package hyperref Info: Link coloring ON on input line 110.
 
 (main.out) (main.out)
 \@outlinefile=\write4
@@ -1247,236 +1281,381 @@ Package hyperref Info: Link coloring ON on input line 108.
 
 Package newfloat Info: Trying Plan B...
 Package newfloat Info: `float' package detected.
-Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 108.
+Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 110.
 \openout3 = `mainNotes.bib'.
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-31.
+28.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-31.
+28.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-131.
+128.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-131.
+128.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 131.
+(Font)              <9> on input line 128.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 131.
+(Font)              <6> on input line 128.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 131.
+(Font)              <5> on input line 128.
 LaTeX Font Info:    Trying to load font information for OMS+mdbch on input line
- 131.
+ 128.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\omsmdb
 ch.fd
 File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
 )
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 131.
+(Font)              scaled to size 8.64006pt on input line 128.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-bch.cfg
 File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 
 )
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 131.
+(Font)              scaled to size 5.76004pt on input line 128.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 131.
+(Font)              scaled to size 4.80003pt on input line 128.
 LaTeX Font Info:    Trying to load font information for OML+mdbch on input line
- 131.
+ 128.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\omlmdb
 ch.fd
 File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
 )
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 131.
+(Font)              scaled to size 8.64006pt on input line 128.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 131.
+(Font)              scaled to size 5.76004pt on input line 128.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 131.
+(Font)              scaled to size 4.80003pt on input line 128.
 LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line
- 131.
+ 128.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\mdamdb
 ch.fd
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 131.
+(Font)              scaled to size 8.64006pt on input line 128.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 131.
+(Font)              scaled to size 5.76004pt on input line 128.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 131.
+(Font)              scaled to size 4.80003pt on input line 128.
 LaTeX Font Info:    Trying to load font information for MDB+mdbch on input line
- 131.
+ 128.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\mdbmdb
 ch.fd
 File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
 )
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 131.
+(Font)              scaled to size 8.64006pt on input line 128.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 131.
+(Font)              scaled to size 5.76004pt on input line 128.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 131.
+(Font)              scaled to size 4.80003pt on input line 128.
 LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 131.
+(Font)              scaled to size 8.64006pt on input line 128.
 LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
-(Font)              scaled to size 6.72005pt on input line 131.
+(Font)              scaled to size 5.76004pt on input line 128.
 LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
-(Font)              scaled to size 4.80003pt on input line 131.
+(Font)              scaled to size 4.80003pt on input line 128.
 LaTeX Font Info:    Font shape `OML/mdbch/b/it' will be
-(Font)              scaled to size 9.60007pt on input line 131.
+(Font)              scaled to size 8.64006pt on input line 128.
 LaTeX Font Info:    Font shape `OML/mdbch/b/it' will be
-(Font)              scaled to size 6.72005pt on input line 131.
+(Font)              scaled to size 5.76004pt on input line 128.
 LaTeX Font Info:    Font shape `OML/mdbch/b/it' will be
-(Font)              scaled to size 4.80003pt on input line 131.
+(Font)              scaled to size 4.80003pt on input line 128.
 LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 131.
+(Font)              scaled to size 8.64006pt on input line 128.
 LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
-(Font)              scaled to size 6.72005pt on input line 131.
+(Font)              scaled to size 5.76004pt on input line 128.
 LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
-(Font)              scaled to size 4.80003pt on input line 131.
+(Font)              scaled to size 4.80003pt on input line 128.
 LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line
- 131.
+ 128.
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\omxmdb
 ch.fd
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 131.
+(Font)              scaled to size 8.64006pt on input line 128.
 LaTeX Font Info:    Font shape `OMX/mdbch/b/n' will be
-(Font)              scaled to size 6.72005pt on input line 131.
+(Font)              scaled to size 5.76004pt on input line 128.
 LaTeX Font Info:    Font shape `OMX/mdbch/b/n' will be
-(Font)              scaled to size 4.80003pt on input line 131.
+(Font)              scaled to size 4.80003pt on input line 128.
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-31.
+28.
  (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 131.
+(Font)              <10> on input line 135.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 131.
+(Font)              <7> on input line 135.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 131.
+(Font)              scaled to size 9.60007pt on input line 135.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 131.
+(Font)              scaled to size 6.72005pt on input line 135.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 131.
+(Font)              scaled to size 9.60007pt on input line 135.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 131.
+(Font)              scaled to size 6.72005pt on input line 135.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 131.
+(Font)              scaled to size 9.60007pt on input line 135.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 131.
+(Font)              scaled to size 6.72005pt on input line 135.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 131.
+(Font)              scaled to size 9.60007pt on input line 135.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 131.
+(Font)              scaled to size 6.72005pt on input line 135.
 LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 131.
+(Font)              scaled to size 9.60007pt on input line 135.
 LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
-(Font)              scaled to size 5.76004pt on input line 131.
+(Font)              scaled to size 6.72005pt on input line 135.
 LaTeX Font Info:    Font shape `OML/mdbch/b/it' will be
-(Font)              scaled to size 8.64006pt on input line 131.
+(Font)              scaled to size 9.60007pt on input line 135.
 LaTeX Font Info:    Font shape `OML/mdbch/b/it' will be
-(Font)              scaled to size 5.76004pt on input line 131.
+(Font)              scaled to size 6.72005pt on input line 135.
 LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 131.
+(Font)              scaled to size 9.60007pt on input line 135.
 LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
-(Font)              scaled to size 5.76004pt on input line 131.
+(Font)              scaled to size 6.72005pt on input line 135.
 LaTeX Font Info:    Font shape `OMX/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 131.
+(Font)              scaled to size 9.60007pt on input line 135.
 LaTeX Font Info:    Font shape `OMX/mdbch/b/n' will be
-(Font)              scaled to size 5.76004pt on input line 131.
+(Font)              scaled to size 6.72005pt on input line 135.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 131.
+(Font)              <8> on input line 135.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 131.
+(Font)              scaled to size 7.68005pt on input line 135.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 131.
+(Font)              scaled to size 7.68005pt on input line 135.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 131.
+(Font)              scaled to size 7.68005pt on input line 135.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 131.
+(Font)              scaled to size 7.68005pt on input line 135.
 LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
-(Font)              scaled to size 7.68005pt on input line 131.
+(Font)              scaled to size 7.68005pt on input line 135.
 LaTeX Font Info:    Font shape `OML/mdbch/b/it' will be
-(Font)              scaled to size 7.68005pt on input line 131.
+(Font)              scaled to size 7.68005pt on input line 135.
 LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
-(Font)              scaled to size 7.68005pt on input line 131.
+(Font)              scaled to size 7.68005pt on input line 135.
 LaTeX Font Info:    Font shape `OMX/mdbch/b/n' will be
-(Font)              scaled to size 7.68005pt on input line 131.
+(Font)              scaled to size 7.68005pt on input line 135.
 
-(secciones/intro.tex) (secciones/met.tex
-<img/circuitopot.png, id=38, 641.5167pt x 591.3292pt>
+(secciones/intro.tex [1{C:/Users/julio/AppData/Local/MiKTeX/fonts/map/pdftex/pd
+ftex.map}{C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec
+.enc}{C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy
+.enc}{C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit
+.enc}{C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc
+}{C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc
+}]) [2] (secciones/met.tex
+<img/circuitopot.png, id=122, 641.5167pt x 591.3292pt>
 File: img/circuitopot.png Graphic file (type png)
 <use img/circuitopot.png>
 Package pdftex.def Info: img/circuitopot.png  used on input line 4.
 (pdftex.def)             Requested size: 241.38435pt x 222.4968pt.
 ) (secciones/resdiscus.tex
+<img/pot1.png, id=130, 4978.6pt x 3733.95pt>
+File: img/pot1.png Graphic file (type png)
+<use img/pot1.png>
+Package pdftex.def Info: img/pot1.png  used on input line 14.
+(pdftex.def)             Requested size: 245.37941pt x 184.0306pt.
+<img/pot2.png, id=131, 4978.6pt x 3733.95pt>
+File: img/pot2.png Graphic file (type png)
+<use img/pot2.png>
+Package pdftex.def Info: img/pot2.png  used on input line 21.
+(pdftex.def)             Requested size: 245.37941pt x 184.0306pt.
+ [3 <./img/circuitopot.png>]
+<img/pot3.png, id=144, 4978.6pt x 3733.95pt>
+File: img/pot3.png Graphic file (type png)
+<use img/pot3.png>
+Package pdftex.def Info: img/pot3.png  used on input line 34.
+(pdftex.def)             Requested size: 245.37941pt x 184.0306pt.
+<img/pot4.png, id=145, 4978.6pt x 3733.95pt>
+File: img/pot4.png Graphic file (type png)
+<use img/pot4.png>
+Package pdftex.def Info: img/pot4.png  used on input line 41.
+(pdftex.def)             Requested size: 245.37941pt x 184.0306pt.
+<img/pot5.png, id=146, 4978.6pt x 3733.95pt>
+File: img/pot5.png Graphic file (type png)
+<use img/pot5.png>
+Package pdftex.def Info: img/pot5.png  used on input line 54.
+(pdftex.def)             Requested size: 245.37941pt x 184.0306pt.
+<img/pot6.png, id=147, 4978.6pt x 3733.95pt>
+File: img/pot6.png Graphic file (type png)
+<use img/pot6.png>
+Package pdftex.def Info: img/pot6.png  used on input line 61.
+(pdftex.def)             Requested size: 245.37941pt x 184.0306pt.
+<img/pot7.png, id=148, 4978.6pt x 3733.95pt>
+File: img/pot7.png Graphic file (type png)
+<use img/pot7.png>
+Package pdftex.def Info: img/pot7.png  used on input line 74.
+(pdftex.def)             Requested size: 245.37941pt x 184.0306pt.
+<img/pot8.png, id=149, 4978.6pt x 3733.95pt>
+File: img/pot8.png Graphic file (type png)
+<use img/pot8.png>
+Package pdftex.def Info: img/pot8.png  used on input line 81.
+(pdftex.def)             Requested size: 245.37941pt x 184.0306pt.
+ [4{C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}
+ <./img/pot1.png> <./img/pot2.png> <./img/pot3.png> <./img/pot4.png> <./img/pot
+5.png> <./img/pot6.png>]
+<img/pot9.png, id=164, 4978.6pt x 3733.95pt>
+File: img/pot9.png Graphic file (type png)
+<use img/pot9.png>
+Package pdftex.def Info: img/pot9.png  used on input line 94.
+(pdftex.def)             Requested size: 245.37941pt x 184.0306pt.
+<img/pot10.png, id=165, 4978.6pt x 3733.95pt>
+File: img/pot10.png Graphic file (type png)
+<use img/pot10.png>
+Package pdftex.def Info: img/pot10.png  used on input line 101.
+(pdftex.def)             Requested size: 245.37941pt x 184.0306pt.
+<img/potderst1.png, id=173, 5139.2pt x 3854.4pt>
+File: img/potderst1.png Graphic file (type png)
+<use img/potderst1.png>
+Package pdftex.def Info: img/potderst1.png  used on input line 148.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderst2.png, id=174, 5139.2pt x 3854.4pt>
+File: img/potderst2.png Graphic file (type png)
+<use img/potderst2.png>
+Package pdftex.def Info: img/potderst2.png  used on input line 155.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+ [5 <./img/pot7.png> <./img/pot8.png> <./img/pot9.png> <./img/pot10.png>]
+<img/potderst3.png, id=192, 5139.2pt x 3854.4pt>
+File: img/potderst3.png Graphic file (type png)
+<use img/potderst3.png>
+Package pdftex.def Info: img/potderst3.png  used on input line 168.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderst4.png, id=193, 5139.2pt x 3854.4pt>
+File: img/potderst4.png Graphic file (type png)
+<use img/potderst4.png>
+Package pdftex.def Info: img/potderst4.png  used on input line 175.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderst5.png, id=194, 5139.2pt x 3854.4pt>
+File: img/potderst5.png Graphic file (type png)
+<use img/potderst5.png>
+Package pdftex.def Info: img/potderst5.png  used on input line 188.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderst6.png, id=195, 5139.2pt x 3854.4pt>
+File: img/potderst6.png Graphic file (type png)
+<use img/potderst6.png>
+Package pdftex.def Info: img/potderst6.png  used on input line 195.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderst7.png, id=196, 5139.2pt x 3854.4pt>
+File: img/potderst7.png Graphic file (type png)
+<use img/potderst7.png>
+Package pdftex.def Info: img/potderst7.png  used on input line 208.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderst8.png, id=197, 5139.2pt x 3854.4pt>
+File: img/potderst8.png Graphic file (type png)
+<use img/potderst8.png>
+Package pdftex.def Info: img/potderst8.png  used on input line 215.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+ [6 <./img/potderst1.png> <./img/potderst2.png> <./img/potderst3.png> <./img/po
+tderst4.png> <./img/potderst5.png> <./img/potderst6.png>]
+<img/potderst9.png, id=210, 5139.2pt x 3854.4pt>
+File: img/potderst9.png Graphic file (type png)
+<use img/potderst9.png>
+Package pdftex.def Info: img/potderst9.png  used on input line 228.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderst10.png, id=211, 5139.2pt x 3854.4pt>
+File: img/potderst10.png Graphic file (type png)
+<use img/potderst10.png>
+Package pdftex.def Info: img/potderst10.png  used on input line 235.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+)
+(secciones/resdiscus2.tex) (secciones/conclusiones.tex) [7 <./img/potderst7.png
+> <./img/potderst8.png> <./img/potderst9.png> <./img/potderst10.png>]
 
-LaTeX Warning: Reference `fig:pot1' on page 1 undefined on input line 1.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 161.
 
 
-LaTeX Warning: Reference `fig:pot10' on page 1 undefined on input line 1.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 161.
 
 
-LaTeX Warning: Reference `tab:pots' on page 1 undefined on input line 3.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@UnitsNiceFrac ' on input line 161.
 
 
-LaTeX Warning: Reference `fig:pot1' on page 1 undefined on input line 3.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 161.
 
-
-LaTeX Warning: Reference `fig:pot10' on page 1 undefined on input line 3.
-
-[1{C:/Users/julio/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ju
-lio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/julio/
-AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/julio/
-AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/julio/AppD
-ata/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc} <./img/circuitopot.
-png>]
-
-LaTeX Warning: Reference `fig:derspot1' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Reference `fig:derspot10' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Reference `fig:der3pot1' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Reference `fig:der3pot10' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Reference `fig:pot1' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Reference `fig:pot10' on page 2 undefined on input line 6.
-
-) (secciones/resdiscus2.tex) (secciones/conclusiones.tex)
-(secciones/apendiceA.tex) (main.bbl
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 6
+(secciones/apendiceA.tex
+<img/potderps1.png, id=223, 5139.2pt x 3854.4pt>
+File: img/potderps1.png Graphic file (type png)
+<use img/potderps1.png>
+Package pdftex.def Info: img/potderps1.png  used on input line 7.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderps2.png, id=224, 5139.2pt x 3854.4pt>
+File: img/potderps2.png Graphic file (type png)
+<use img/potderps2.png>
+Package pdftex.def Info: img/potderps2.png  used on input line 14.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderps3.png, id=225, 5139.2pt x 3854.4pt>
+File: img/potderps3.png Graphic file (type png)
+<use img/potderps3.png>
+Package pdftex.def Info: img/potderps3.png  used on input line 27.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderps4.png, id=226, 5139.2pt x 3854.4pt>
+File: img/potderps4.png Graphic file (type png)
+<use img/potderps4.png>
+Package pdftex.def Info: img/potderps4.png  used on input line 34.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderps5.png, id=227, 5139.2pt x 3854.4pt>
+File: img/potderps5.png Graphic file (type png)
+<use img/potderps5.png>
+Package pdftex.def Info: img/potderps5.png  used on input line 47.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderps6.png, id=228, 5139.2pt x 3854.4pt>
+File: img/potderps6.png Graphic file (type png)
+<use img/potderps6.png>
+Package pdftex.def Info: img/potderps6.png  used on input line 54.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderps7.png, id=229, 5139.2pt x 3854.4pt>
+File: img/potderps7.png Graphic file (type png)
+<use img/potderps7.png>
+Package pdftex.def Info: img/potderps7.png  used on input line 67.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderps8.png, id=230, 5139.2pt x 3854.4pt>
+File: img/potderps8.png Graphic file (type png)
+<use img/potderps8.png>
+Package pdftex.def Info: img/potderps8.png  used on input line 74.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+ [8 <./img/potderps1.png> <./img/potderps2.png> <./img/potderps3.png> <./img/po
+tderps4.png> <./img/potderps5.png> <./img/potderps6.png>]
+<img/potderps9.png, id=243, 5139.2pt x 3854.4pt>
+File: img/potderps9.png Graphic file (type png)
+<use img/potderps9.png>
+Package pdftex.def Info: img/potderps9.png  used on input line 87.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+<img/potderps10.png, id=244, 5139.2pt x 3854.4pt>
+File: img/potderps10.png Graphic file (type png)
+<use img/potderps10.png>
+Package pdftex.def Info: img/potderps10.png  used on input line 94.
+(pdftex.def)             Requested size: 245.37941pt x 184.02692pt.
+) (main.bbl
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 5
 .
 
 (C:\Users\julio\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
@@ -1487,211 +1666,115 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 4316) in paragraph at lines 4--8
- []\T1/lmr/m/n/9 (+20) European Spa-ce Agency (ESA), ``Black-body ra-
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+ []\T1/lmr/m/n/9 (+20) E. V. Ea-mes, ``Io-ni-za-tion energy.'' [][]$\T1/lmtt/m/
+n/9 https :
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--8
- \T1/lmr/m/n/9 (+20) tion?.'' [][]$\T1/lmtt/m/n/9 https : / / sci . esa . int /
- web / education / -[] /
+ \T1/lmtt/m/n/9 / / chem . libretexts . org / Bookshelves / General _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+ \T1/lmtt/m/n/9 Chemistry / General _ Chemistry _ Supplement _ (Eames )
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+ \T1/lmtt/m/n/9 /Periodic _ Trends / Ionization _ Energy$[][]\T1/lmr/m/n/9 (+20
+) , Ju-ne 2016.
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 10--14
+ []\T1/lmr/m/n/9 (+20) ``Ionization energy.'' [][]$\T1/lmtt/m/n/9 https : / / c
+hem . libretexts . org /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--14
- []\T1/lmr/m/n/9 (+20) S. J. Ling, J. Sanny, and W. Moebs, ``6.1
+ \T1/lmtt/m/n/9 Bookshelves / Physical _ and _ Theoretical _ Chemistry _
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--14
- \T1/lmr/m/n/9 (+20) black-body ra-dia-tion.'' [][]$\T1/lmtt/m/n/9 https : / / 
-openstax . org /
+ \T1/lmtt/m/n/9 Textbook _ Maps / Supplemental _ Modules _ (Physical _
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--14
- \T1/lmtt/m/n/9 books / university-[]physics-[]volume-[]3 / pages /
+ \T1/lmtt/m/n/9 and _ Theoretical _ Chemistry ) /Physical _ Properties _
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 10--14
- \T1/lmtt/m/n/9 6-[]1-[]blackbody-[]radiation$[][]\T1/lmr/m/n/9 (+20) , Sept. 2
-016.  Ac-ces-sed:
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+ \T1/lmtt/m/n/9 of _ Matter / Atomic _ and _ Molecular _ Properties /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--25
- \T1/lmtt/m/n/9 20the % 20StefanBoltzmann % 20law % 20from % 20Plancks %
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+ [][]$\T1/lmtt/m/n/9 https : / / www . dm . uba . ar / materias / analisis _ ex
+pl _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--37
- \T1/lmr/m/n/9 (+20) laws.'' [][]$\T1/lmtt/m/n/9 https : / / phys . libretexts 
-. org / Bookshelves /
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+ \T1/lmtt/m/n/9 y _ conf _ de _ datos _ de _ exp _ de _ marrays _ Mae / 2006 / 
+1 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--37
- \T1/lmtt/m/n/9 Astronomy _ _Cosmology / Stellar _ Atmospheres _
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+ \T1/lmtt/m/n/9 nist . gov / div898 / handbook / pmd / section1 / pmd144 .
  []
 
+)
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--37
- \T1/lmtt/m/n/9 (Tatum ) /02 % 3A _ Blackbody _ Radiation / 2 . 10 % 3A _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--37
- \T1/lmtt/m/n/9 Derivation _ of _ Wien '[] s _ and _ Stefan '[] s _ Laws$[][]\T
-1/lmr/m/n/9 (+20) , Apr.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--44
- []\T1/lmr/m/n/9 (+20) T. Vaha-bi, C. Lee, M. Nar-din, E. Hors-ley,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--44
- \T1/lmr/m/n/9 (+20) and R. Ser-ba-nes-cu, ``Black body ra-dia-tion.''
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--44
- [][]$\T1/lmtt/m/n/9 https : / / www . physics . utoronto . ca / ~phy224 _ 324 
-/
- []
-
-
-Underfull \hbox (badness 2653) in paragraph at lines 53--57
- []\T1/lmr/m/n/9 (+20) S. J. Ling, W. Moebs, and J. Sanny, ``9.3 re-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--57
- \T1/lmr/m/n/9 (+20) sis-ti-vity and re-sis-tan-ce.'' [][]$\T1/lmtt/m/n/9 https
- : / / openstax . org /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--57
- \T1/lmtt/m/n/9 books / university-[]physics-[]volume-[]2 / pages /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--63
- []\T1/lmr/m/n/9 (+20) P. P. Uro-ne and R. Hin-richs, ``11.2 heat,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--63
- \T1/lmr/m/n/9 (+20) spe-ci-fic heat, and heat trans-fer.'' [][]$\T1/lmtt/m/n/9
- https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--63
- \T1/lmtt/m/n/9 / / openstax . org / books / physics / pages /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--63
- \T1/lmtt/m/n/9 11-[]2-[]heat-[]specific-[]heat-[]and-[]heat-[]transfer$[][]\T1
-/lmr/m/n/9 (+20) ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--74
- []\T1/lmr/m/n/9 (+20) M. We-llons, ``The Stefan-Boltzmann law.''
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--74
- [][]$\T1/lmtt/m/n/9 https : / / physics . wooster . edu / wp-[]content / uploa
-ds /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--74
- \T1/lmtt/m/n/9 2021 / 08 / Junior-[]IS-[]Thesis-[]Web _ 2007 _ Wellons . pdf$[
-][]\T1/lmr/m/n/9 (+20) ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
- [][]$\T1/lmtt/m/n/9 https : / / www . academia . edu / 23762566 / Descripci %
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
- \T1/lmtt/m/n/9 C3 % B3n _ y _ tablas _ de _ Emisividad ? auto = download$[][]\
-T1/lmr/m/n/9 (+20) .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--100
- []\T1/lmr/m/n/9 (+20) ThermoWorks, ``In-fra-red emis-si-vity ta-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--100
- \T1/lmr/m/n/9 (+20) ble.'' [][]$\T1/lmtt/m/n/9 https : / / www . thermoworks .
- com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--100
- \T1/lmtt/m/n/9 emissivity-[]table / ?srsltid = AfmBOop4EzXC _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--100
- \T1/lmtt/m/n/9 eix3ROUrO7DqWbj9DgVS1O4LlzT5stI7YE2lyR28fxP$[][]\T1/lmr/m/n/9 (
-+20) ,
- []
-
-[2])
-
-Package caption Warning: Unused \captionsetup[eqtag] on input line 85.
+Package caption Warning: Unused \captionsetup[eqtag] on input line 87.
 See the caption package documentation for explanation.
 
-[3] (main.aux)
+[9 <./img/potderps7.png> <./img/potderps8.png> <./img/potderps9.png> <./img/pot
+derps10.png>] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3ABD4AAD9AC70756C434844FC30C5114;1630.
+(rerunfilecheck)             Checksum: 70FC4246A0727EA172CA7D3D38702528;2541.
  ) 
 Here is how much of TeX's memory you used:
- 26270 strings out of 474486
- 431459 string characters out of 5743754
- 1960542 words of memory out of 5000000
- 47857 multiletter control sequences out of 15000+600000
- 652963 words of font info for 222 fonts, out of 8000000 for 9000
+ 27090 strings out of 474486
+ 446696 string characters out of 5743754
+ 1958542 words of memory out of 5000000
+ 48587 multiletter control sequences out of 15000+600000
+ 661375 words of font info for 251 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,8n,117p,2450b,782s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,15n,93p,2040b,794s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmb10.pfb
+><C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb
 ><C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb
-><C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb>
-<C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><
-C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:
-/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/U
-sers/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Use
-rs/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users
-/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users
-/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/
-julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/
-julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/j
-ulio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/ju
-lio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
-Output written on main.pdf (3 pages, 700957 bytes).
+><C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi5.pfb>
+<C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><
+C:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C
+:/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:
+/Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/
+Users/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Us
+ers/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/User
+s/julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/
+julio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/ju
+lio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/ju
+lio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/jul
+io/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/jul
+io/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy5.pfb><C:/Users/juli
+o/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/julio
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/julio/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy9.pfb><C:/Users/julio/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
+Output written on main.pdf (9 pages, 4717862 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 52806 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 388 PDF objects out of 1000 (max. 8388607)
+ 65 named destinations out of 1000 (max. 500000)
+ 57092 words of extra memory for PDF output out of 61914 (max. 10000000)
 

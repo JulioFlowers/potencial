@@ -1,101 +1,61 @@
 \begin{thebibliography}{10}
 
-\bibitem{esa}
-{European Space Agency (ESA)}, ``Blackbody radiation what is thermal -- or
-  black body -- radiation?.''
-  \url{https://sci.esa.int/web/education/-/48986-blackbody-radiation}, 2019.
-\newblock Accessed: 2024-11-2.
+\bibitem{emily}
+E.~V. Eames, ``Ionization energy.''
+  \url{https://chem.libretexts.org/Bookshelves/General_Chemistry/General_Chemistry_Supplement_(Eames)/Periodic_Trends/Ionization_Energy},
+  June 2016.
+\newblock Accessed: 2024-11-22.
 
-\bibitem{openstax}
-S.~J. Ling, J.~Sanny, and W.~Moebs, ``6.1 blackbody radiation.''
-  \url{https://openstax.org/books/university-physics-volume-3/pages/6-1-blackbody-radiation},
-  Sept. 2016.
-\newblock Accessed: 2024-11-3.
+\bibitem{libretexts}
+``Ionization energy.''
+  \url{https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/Atomic_and_Molecular_Properties/Ionization_Energy},
+  Oct. 2013.
+\newblock Accessed: 2024-11-28.
 
-\bibitem{condon}
-J.~J. Condon and S.~M. Ransom, ``mathematical derivations - essential radio
-  astronomy.'' \url{https://www.cv.nrao.edu/~sransom/web/A2.html}, 2018.
-\newblock Accessed: 2024-11-2.
+\bibitem{petrucci}
+R.~H. Petrucci, {\em Qu{\'\i}mica general}.
+\newblock Old Tappan, NJ, Estados Unidos de Am{\'e}rica: Prentice Hall, 10~ed.,
+  2011.
 
-\bibitem{haggstrom}
-P.~Haggstrom, ``Deriving the {Stefan-Boltzmann} law from planck's law.''
-  \url{https://gotohaggstrom.com/Deriving%20the%20StefanBoltzmann%20law%20from%20Plancks%20law.pdf},
-  2023.
-\newblock Accessed: 2024-11-2.
+\bibitem{huffman}
+F.~Huffman, ``Thermionic energy conversion,'' in {\em Encyclopedia of Physical
+  Science and Technology}, pp.~627--638, Elsevier, 2003.
 
-\bibitem{bityukov}
-V.~Bityukov, Y.~Khudak, and N.~Gusein-Zade, ``Analytical derivation of the
-  stefan–boltzmann law for integral radiance from planck’s law for spectral
-  radiance,'' {\em Bulletin of the Lebedev Physics Institute}, vol.~45,
-  pp.~46--50, 02 2018.
+\bibitem{lau}
+Y.~Y. Lau, D.~Li, and D.~P. Chernin, ``On the {Child--Langmuir} law in one,
+  two, and three dimensions,'' {\em Phys. Plasmas}, vol.~30, no.~9, 2023.
 
-\bibitem{tatum}
-J.~Tatum, ``2.10: Derivation of wien's and stefan's laws.''
-  \url{https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Stellar_Atmospheres_(Tatum)/02%3A_Blackbody_Radiation/2.10%3A_Derivation_of_Wien's_and_Stefan's_Laws},
-  Apr. 2017.
-\newblock Accessed: 2024-11-2.
+\bibitem{gonzalez}
+G.~Gonz{\'a}lez and F.~J. Gonz{\'a}lez, ``A novel approach to the
+  {Child-Langmuir} law,'' {\em Rev. Mex. Fis. E}, vol.~63, no.~2, pp.~83--86,
+  2017.
 
-\bibitem{vahabi}
-T.~Vahabi, C.~Lee, M.~Nardin, E.~Horsley, and R.~Serbanescu, ``Black body
-  radiation.''
-  \url{https://www.physics.utoronto.ca/~phy224_324/LabManuals/BlackbodyRadiation.pdf},
-  2023.
-\newblock Accessed: 2024-11-2.
+\bibitem{franklin}
+{C.}, ``The thyratron,'' {\em J. Franklin Inst.}, vol.~215, no.~2,
+  pp.~225--226, 1933.
 
-\bibitem{vidwein}
-{Physics and Math Lectures}, ``Deriving wien's law,'' 2020.
+\bibitem{rhoet}
+{R{\"o}hrentest}, ``Thyratron.''
+  \url{http://www.roehrentest.de/Thyratron_EN.pdf}.
+\newblock Accessed: 2024-11-22.
 
-\bibitem{das}
-B.~Das, ``Obtaining wien's displacement law from planck's law of radiation,''
-  {\em Phys. Teach.}, vol.~40, no.~3, pp.~148--149, 2002.
+\bibitem{lide}
+D.~R. Lide, ``Ionization potentials of atoms and atomic ions in handbook of
+  chem,'' {\em and Phys}, pp.~10--211, 1992.
 
-\bibitem{ling}
-S.~J. Ling, W.~Moebs, and J.~Sanny, ``9.3 resistivity and resistance.''
-  \url{https://openstax.org/books/university-physics-volume-2/pages/9-3-resistivity-and-resistance},
-  Oct. 2016.
-\newblock Accessed: 2024-11-4.
+\bibitem{kelmansky}
+D.~M. Kelmansky, ``8. modelos de regresi{\'o}n - suavizados.''
+  \url{https://www.dm.uba.ar/materias/analisis_expl_y_conf_de_datos_de_exp_de_marrays_Mae/2006/1/teoricas/Teor8.pdf},
+  2006.
+\newblock Accessed: 2024-9-2.
 
-\bibitem{urone}
-P.~P. Urone and R.~Hinrichs, ``11.2 heat, specific heat, and heat transfer.''
-  \url{https://openstax.org/books/physics/pages/11-2-heat-specific-heat-and-heat-transfer},
-  Mar. 2020.
-\newblock Accessed: 2024-11-4.
+\bibitem{nist}
+``4.1.4.4. {LOESS} (aka {LOWESS}).''
+  \url{https://www.itl.nist.gov/div898/handbook/pmd/section1/pmd144.htm}.
+\newblock Accessed: 2024-9-2.
 
-\bibitem{oliva}
-A.~Oliva, R.~Maldonado, E.~Díaz, and A.~Montalvo, ``A high absorbance material
-  for solar collectors' applications,'' {\em Materials Science and Engineering
-  Conference Series}, vol.~45, pp.~2019--, 06 2013.
-
-\bibitem{wellons}
-M.~Wellons, ``The {Stefan-Boltzmann} law.''
-  \url{https://physics.wooster.edu/wp-content/uploads/2021/08/Junior-IS-Thesis-Web_2007_Wellons.pdf},
-  2007.
-\newblock Accessed: 2024-11-2.
-
-\bibitem{copper}
-{PubChem}, ``Copper.'' \url{https://pubchem.ncbi.nlm.nih.gov/compound/Copper}.
-\newblock Accessed: 2024-11-4.
-
-\bibitem{aletba}
-S.~R.~O. Aletba, N.~{Abdul Hassan}, R.~{Putra Jaya}, E.~Aminudin, M.~Z.~H.
-  Mahmud, A.~Mohamed, and A.~A. Hussein, ``Thermal performance of cooling
-  strategies for asphalt pavement: A state-of-the-art review,'' {\em Journal of
-  Traffic and Transportation Engineering (English Edition)}, vol.~8, no.~3,
-  pp.~356--373, 2021.
-
-\bibitem{emhollin}
-D.~Bonyuet, ``Descripci{\'o}n y tablas de emisividad.''
-  \url{https://www.academia.edu/23762566/Descripci%C3%B3n_y_tablas_de_Emisividad?auto=download}.
-\newblock Accessed: 2024-11-3.
-
-\bibitem{bolzman}
-H.~D. Kambezidis, ``The solar resource,'' in {\em Reference Module in Earth
-  Systems and Environmental Sciences}, Elsevier, 2020.
-
-\bibitem{empaint}
-{ThermoWorks}, ``Infrared emissivity table.''
-  \url{https://www.thermoworks.com/emissivity-table/?srsltid=AfmBOop4EzXC_eix3ROUrO7DqWbj9DgVS1O4LlzT5stI7YE2lyR28fxP},
-  2024.
-\newblock Accessed: 2024-11-3.
+\bibitem{cleveland}
+W.~S. Cleveland, S.~J. Devlin, and E.~Grosse, ``Regression by local fitting,''
+  {\em J. Econom.}, vol.~37, no.~1, pp.~87--114, 1988.
 
 \end{thebibliography}
